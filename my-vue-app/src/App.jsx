@@ -1,0 +1,13 @@
+
+import React from 'react'
+import CartContainer from './components/cart/CartContainer'
+
+const App = () => {
+  return (
+    <div>
+      <CartContainer/>
+    </div>
+  )
+}
+
+export default App
